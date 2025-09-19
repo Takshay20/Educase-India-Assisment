@@ -5,7 +5,7 @@ export default function Settings() {
       <div stylepopx={{display:"flex",alignItems:"center",margin:"16px 0"}}>
       <img
   src="/mayy.png"        // or import if in src/assets
-  alt="Passport photo"
+  alt=""
   style={{
     width: "120px",      // change to the exact size you want
     height: "120px",

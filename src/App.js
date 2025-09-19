@@ -4,7 +4,7 @@ import Welcome from "./pages/Welcome";
 import Login from "./pages/Login";
 import Register from "./pages/Register";
 import Settings from "./pages/Settings";
-import "./main.css";
+import "./main.css";   // <— create this file in src
 
 export default function App() {
   return (
